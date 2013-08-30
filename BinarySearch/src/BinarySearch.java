@@ -38,6 +38,6 @@ class BinarySearch
       middle = (first + last)/2;
    }
    if ( first > last )
-      System.out.println(search + " is not present in the list.\n");
+      System.out.print(search + " is not present in the list.\n");
               }
 }
